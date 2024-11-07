@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85086357-29c9-49d1-b43d-6d1eff581171" name="Changes" comment="" />
+    <list default="true" id="85086357-29c9-49d1-b43d-6d1eff581171" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imagem/logoFaiskaBurguer-removebg-preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ruan/caetano/atividadejavasegbi/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ruan/caetano/atividadejavasegbi/TelaInicialAplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ruan/caetano/atividadejavasegbi/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ruan/caetano/atividadejavasegbi/TelaInicialControle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ruan/caetano/atividadejavasegbi/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ruan/caetano/atividadejavasegbi/TelaInicial-view.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +28,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2oLxLpESimc9RO6gUQVcDIwdHfE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,11 +39,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TelaInicialAplicacao.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ruan/Desktop/Faculdade/4º termo/Ferro2/Atividade-Java-Seg-Bi/src/Imagem"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ruan\Desktop\Faculdade\4º termo\Ferro2\Atividade-Java-Seg-Bi\src\Imagem" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TelaInicialAplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ruan.caetano.atividadejavasegbi.TelaInicialAplicacao" />
+      <module name="Atividade-Java-Seg-Bi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ruan.caetano.atividadejavasegbi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TelaInicialAplicacao" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
